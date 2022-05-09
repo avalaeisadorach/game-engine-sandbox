@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/game-engine-sandbox
+game-engine-sandbox.so
+game-engine-sandbox.dylib
+game-engine-sandbox.dll
+game-engine-sandbox.a
+game-engine-sandbox.lib
+game-engine-sandbox-test-*
+*.exe
+*.o
+*.obj
+*.lst

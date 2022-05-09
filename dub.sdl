@@ -1,0 +1,11 @@
+name "game-engine-sandbox"
+description "Sandbox for game-engine, wooo"
+authors "Isadora Avalae"
+copyright "Copyright © 2022, Isadora Avalae"
+license "LGPL-2.1"
+
+targetName "sandbox"
+targetPath "bin"
+targetType "executable"
+
+dependency "game-engine" path="../game-engine"
